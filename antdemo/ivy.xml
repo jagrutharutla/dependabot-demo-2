@@ -5,6 +5,9 @@
     <dependency org="commons-cli" name="commons-cli" rev="1.0"/>
     <!-- https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator -->
     <dependency org="org.hibernate.validator" name="hibernate-validator" rev="6.2.0.Final"/>
+    <!-- https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator -->
+    <dependency org="org.hibernate.validator" name="hibernate-validator" rev="6.1.6.Final"/>
+
 
   </dependencies>
 </ivy-module>
